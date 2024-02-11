@@ -1,6 +1,6 @@
 # SQLAlchemy Challenge: Climate Analysis in Honolulu #
 # Project Overview #
-In the SQLAlchemy Challenge, I undertook a comprehensive climate analysis and data exploration for Honolulu, Hawaii, using Python, SQLAlchemy, and Flask. The project was structured into two main parts: an in-depth climate data analysis (Part 1: Analyze and Explore the Climate Data) and the development of a Flask API for data presentation (Part 2: Design Your Climate App).
+In the SQLAlchemy Challenge, I undertook a comprehensive climate analysis and data exploration for Honolulu, Hawaii, using Python, SQLAlchemy, MongoDB and Flask. The project was structured into two main parts: an in-depth climate data analysis (Part 1: Analyze and Explore the Climate Data) and the development of a Flask API for data presentation (Part 2: Design Your Climate App).
 
 # Part 1: Climate Data Analysis #
 ## Accomplishments ##
