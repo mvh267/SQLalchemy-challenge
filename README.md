@@ -5,7 +5,7 @@ In the SQLAlchemy Challenge, I undertook a comprehensive climate analysis and da
 # Part 1: Climate Data Analysis #
 ## Accomplishments ##
 - Database Integration: Used SQLAlchemy's create_engine() and automap_base() to connect to and reflect the SQLite database.
-- Session Linking: Created and managed a session link between Python and the database for querying.
+- Session Linking: Created and managed a session link between Python and MongoDB for querying.
 - Precipitation Analysis: Performed data retrieval and analysis for the last 12 months of precipitation, including data visualization.
 - Station Analysis: Conducted analysis to identify the most active weather stations and their temperature observations.
 ## Deliverables ##
@@ -20,7 +20,7 @@ In the SQLAlchemy Challenge, I undertook a comprehensive climate analysis and da
 - Routes for precipitation data, station information, and temperature observations, providing dynamic responses based on user queries.
 # Technical Proficiency #
 - Demonstrated strong skills in Python for data analysis and API development.
-- Utilized SQLAlchemy for complex database queries and data manipulation.
+- Utilized SQLAlchemy for complex database queries and data manipulation within MongoDB.
 - Employed Pandas for data structuring and analysis.
 - Created data visualizations using Matplotlib.
 - Developed a functional Flask API for data serving.
